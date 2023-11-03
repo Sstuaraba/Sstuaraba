@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sstuaraba
+- 👋 Hi, I’m Tuaraba
 - 👀 I’m interested in exploring new things.
 - 🌱 I’m currently learning Laravel
 - 💞️ I’m looking to collaborate on Cyber Security
